@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ifiht/gpt3-sandbox/master?urlpath=lab)
+
 # GPT-3 Sandbox: Turn your ideas into demos in a matter of minutes
 
 Initial release date: 19 July 2020
